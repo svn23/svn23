@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">👋 Hi, I’m Sovan<br>👀 I’m interested in ethical hacking and networking<br>🌱 I’m currently a student<br>💞️ I’m looking to collaborate on cyber security</h4>
+<h4 align="left">👋 Hi, I’m Sovan<br>👀 I’m interested in ethical hacking and networking<br>🌱 I’m currently an IAM Analyst<br>💞️ I’m looking to collaborate on cyber security</h4>
 
 ###
 
